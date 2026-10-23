@@ -1,0 +1,10 @@
+{
+  "name": "raff-bot_cleaner",
+  "version": "1.0.0",
+  "description": "Discord auto delete cleaner bot",
+  "main": "raff-bot_cleaner.js",
+  "scripts": {
+    "start": "node raff-bot_cleaner.js"
+  },
+  "dependencies": {}
+}
